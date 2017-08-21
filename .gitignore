@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+.virtualenvs/
+db.sqlite3
+.DS_Store
+.environment.ini
+.environment.ini.lock
